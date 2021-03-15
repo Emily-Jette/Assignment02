@@ -1,4 +1,4 @@
-#main_page {
+#main-page {
   background-color: grey;
 }
 
@@ -27,7 +27,7 @@
   color: wheat
 }
 
-.t_text {
+.t-text {
   font-size: 15px;
   color: azure;
 }
